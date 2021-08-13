@@ -31,8 +31,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Recriei a interface do principal site de streaming mundial utilizando as seguintes tecnologias  HTML5, CSS3 e JavaScript. 
 Utilizei técnicas de CSS3 com containers e variáveis,  posicionei os elementos com Flexbox e  também utilizei plugins Jquery.
 
-Nesse projeto  criar um jogo da memória utilizando apenas HTML, CSS e Javascript. Com poucas linhas de código, aprenderemos juntos a trabalhar com efeitos 3D no CSS e lógica de programação utilizando condicionais, Immediately Invoked Function Expression e manipulação de Array em um projeto super divertido.
+Nesse projeto eu criei um jogo da memória utilizando HTML, CSS e Javascript. Com poucas linhas de código, trabalhei com efeitos 3D no CSS e lógica de programação utilizando condicionais, Immediately Invoked Function Expression e manipulação de Array em um projeto super divertido.
+
 ## 🔖 Layout
-<a href="https://picasion.com/"><img src="https://i.picasion.com/pic91/f47e473c7e20cff51c8e0eba3afd72be.gif" width="450" height="228" border="0" alt="https://picasion.com/" /></a><br />
+(em breve)
 
 Feito com ♥ by Bruno Soares 👋🏽
