@@ -1,5 +1,5 @@
 <h1 align="center">
-  Milky Way Memory Gam 🧠
+  Milky Way Memory Game 🧠
 </h1>
 <h3 align="center">
   Desenvolvi um jogo da  memória pensando na Via Láctea 💫
