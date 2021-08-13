@@ -28,9 +28,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 
 ## 💻 Projeto
-Recriei a interface do principal site de streaming mundial utilizando as seguintes tecnologias  HTML5, CSS3 e JavaScript. 
-Utilizei técnicas de CSS3 com containers e variáveis,  posicionei os elementos com Flexbox e  também utilizei plugins Jquery.
-
 Nesse projeto eu criei um jogo da memória utilizando HTML, CSS e Javascript. Com poucas linhas de código, trabalhei com efeitos 3D no CSS e lógica de programação utilizando condicionais, Immediately Invoked Function Expression e manipulação de Array em um projeto super divertido.
 
 ## 🔖 Layout
