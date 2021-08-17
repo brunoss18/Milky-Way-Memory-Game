@@ -61,3 +61,29 @@ header .container{
        font-size: 30px;
        color: var(--blue);
    }
+
+   @media (max-width:1024px) {
+    body{
+        width: 100%;
+    }
+}
+
+@media (max-width: 650px){
+
+   
+    .text{
+        width: 100%;
+        padding-top: 15rem;
+    }
+    .text{
+        
+    }
+
+    header{
+        width: 100%;
+    }
+    header{
+    
+    
+    }
+}

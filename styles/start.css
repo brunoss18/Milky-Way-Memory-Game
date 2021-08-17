@@ -60,3 +60,24 @@
 .card.flip{
     transform: rotateY(180deg);
 }
+
+@media (max-width:1024px) {
+    body{
+        width: 100%;
+    }
+}
+
+@media (max-width: 650px){
+
+   
+    main {
+        width: 100%;
+        padding-top: 15rem;
+    }
+    
+
+  
+    
+    
+    
+}
