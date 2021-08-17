@@ -46,10 +46,12 @@ header .container{
    .text{
     text-align:center;
     font-family: 'Poppins', sans-serif;
-    padding-top: 10rem;
+    padding-top: 8rem;
    }
 
- 
+   .text>h2{
+       padding-bottom: 1rem;
+   }
  
     #button{
        border: none;
