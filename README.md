@@ -8,7 +8,8 @@
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
   
   
 </p>
@@ -33,7 +34,8 @@ Nesse projeto eu criei um jogo da memória utilizando HTML, CSS e Javascript. Co
 trabalhei com efeitos 3D no CSS e lógica de programação utilizando condicionais,
 Immediately Invoked Function Expression e manipulação de Array em um projeto super divertido.
 
+## 🔖 Layout
 
-
+https://milky-way-memory-game.netlify.app/
 
 Feito com ♥ by Bruno Soares 👋🏽
