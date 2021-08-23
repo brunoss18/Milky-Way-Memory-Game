@@ -9,7 +9,7 @@
        padding: 3rem;
         height: 100%;
         display: flex;
-        background-color:rgba(00, 000, 000);
+        background-image: url("/img/space.jpg");
         
     }
     
@@ -70,9 +70,10 @@
 @media (max-width: 650px){
 
    
-    main {
-        width: 100%;
-        padding-top: 15rem;
+    body {
+        width: 95%;
+        
+        padding-top: 10rem;
     }
     
 
