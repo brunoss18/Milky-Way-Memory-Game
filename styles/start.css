@@ -94,12 +94,14 @@ main {
 @media (max-width: 650px) {
 
     body {
-        
+        padding-top: 10rem;
         width: 100%;
     }
     #title{
-        padding-left: 5rem;
-        text-align: center;
+        /* padding-left: 5rem; */
+        position: relative;
+        align-items: top;
+        text-align: left;
      font-size:20px;
     
        
